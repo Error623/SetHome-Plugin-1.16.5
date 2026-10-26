@@ -1,0 +1,16 @@
+name: SetHome
+version: '2.2'
+main: ru.error623.sethome.SetHome
+api-version: '1.16'
+author: Error623
+
+commands:
+  sethome:
+    description: Setting up a home
+    usage: /sethome
+  delhome:
+    description: Delete a home
+    usage: /delhome
+  homes:
+    description: Open a custom GUI with a homes
+    usage: /homes
